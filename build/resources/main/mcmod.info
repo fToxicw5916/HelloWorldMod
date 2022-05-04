@@ -1,0 +1,16 @@
+[
+{
+  "modid": "helloworld",
+  "name": "Hello World",
+  "description": "Hello World mod!",
+  "version": "1.0.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["fToxicw5916"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

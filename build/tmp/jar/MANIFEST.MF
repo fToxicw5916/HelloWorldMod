@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Space
+Implementation-Version: 1.0
+Specification-Vendor: examplemodsareus
+Specification-Title: examplemod
+Implementation-Timestamp: 2022-05-04T11:09:28+0800
+Specification-Version: 1
+Implementation-Vendor: examplemodsareus
+
